@@ -1,0 +1,1 @@
+{"agent_tag":"agent-v0.2.0","agent_version":"0.2.0","channel":"stable","files":[{"name":"tiraz_updater.py","sha256":"64d83bd15394b7d3fdaa90239b81187f05a133d76d0c5ccd4bd2b97c1fbd4f6d","size":17462},{"name":"tiraz_apply.py","sha256":"a5b2fa2bad624264a3a7198d802b84f021807339bf73788a931af05babf1d27d","size":28292}],"minimum_upgrader_version":"1.0.0","schema_version":1}
